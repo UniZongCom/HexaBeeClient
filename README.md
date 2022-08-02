@@ -1,6 +1,10 @@
 # Hexabee Client
 
-Just another Minecraft PvP client. It is on the classic 1.8.9 version of minecraft, so spam clicking works.
+Just another Minecraft PvP client. It is on the classic 1.8.9 version of minecraft, so spam clicking works. This client is being remade.
+
+Orignal developer - GameWorks
+Remake Developer - GameWorks
+(This part is to mock Fishycraft, who claimed to be the developer)
 
 ## Download(s)
 
